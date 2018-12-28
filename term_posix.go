@@ -6,7 +6,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/pkg/term/termios"
+	"github.com/mndrix/term/termios"
 )
 
 // Term represents an asynchronous communications port.

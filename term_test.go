@@ -3,7 +3,7 @@ package term
 import (
 	"testing"
 
-	"github.com/pkg/term/termios"
+	"github.com/mndrix/term/termios"
 	"time"
 )
 

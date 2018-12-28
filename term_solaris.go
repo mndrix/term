@@ -5,7 +5,7 @@ import "C"
 
 import (
 	"syscall"
-	"github.com/pkg/term/termios"
+	"github.com/mndrix/term/termios"
 	"os"
 	"golang.org/x/sys/unix"
 	"unsafe"
